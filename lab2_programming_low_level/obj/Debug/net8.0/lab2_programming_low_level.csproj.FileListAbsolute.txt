@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\lab2_programming_low_level\bin\Debug\net8.0\lab2_programming_low_level.exe
+C:\Users\user\source\repos\lab2_programming_low_level\bin\Debug\net8.0\lab2_programming_low_level.deps.json
+C:\Users\user\source\repos\lab2_programming_low_level\bin\Debug\net8.0\lab2_programming_low_level.runtimeconfig.json
+C:\Users\user\source\repos\lab2_programming_low_level\bin\Debug\net8.0\lab2_programming_low_level.dll
+C:\Users\user\source\repos\lab2_programming_low_level\bin\Debug\net8.0\lab2_programming_low_level.pdb
+C:\Users\user\source\repos\lab2_programming_low_level\obj\Debug\net8.0\lab2_programming_low_level.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\lab2_programming_low_level\obj\Debug\net8.0\lab2_programming_low_level.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\lab2_programming_low_level\obj\Debug\net8.0\lab2_programming_low_level.AssemblyInfo.cs
+C:\Users\user\source\repos\lab2_programming_low_level\obj\Debug\net8.0\lab2_programming_low_level.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\lab2_programming_low_level\obj\Debug\net8.0\lab2_programming_low_level.dll
+C:\Users\user\source\repos\lab2_programming_low_level\obj\Debug\net8.0\refint\lab2_programming_low_level.dll
+C:\Users\user\source\repos\lab2_programming_low_level\obj\Debug\net8.0\lab2_programming_low_level.pdb
+C:\Users\user\source\repos\lab2_programming_low_level\obj\Debug\net8.0\lab2_programming_low_level.genruntimeconfig.cache
+C:\Users\user\source\repos\lab2_programming_low_level\obj\Debug\net8.0\ref\lab2_programming_low_level.dll
